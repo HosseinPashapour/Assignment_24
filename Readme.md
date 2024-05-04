@@ -48,7 +48,7 @@ python game.py
 ```
 
 
-#  2-Movie To Sound** 🔊
+#  2-Movie To Sound 🔊
 ## Using Thread 
 
 
